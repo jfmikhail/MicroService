@@ -1,0 +1,15 @@
+<section class="main" *ngIf="listItems.length > 0">
+  <ul class="list-group">
+    <li class="list-group-item" *ngFor="let item of listItems">
+      <app-list-item
+        [listItem]="item"
+        (toggleDone)="onToggleTaskDone($event)"
+        [allowToggle]="allowToggle"
+        [allowRemove]="allowRemove"
+        [allowDetails]="allowDetails"
+        (getDetails)="getItemDetails($event)"
+        (save)="saveItem($event)"
+        (remove)="onRemove($event)"></app-list-item>
+    </li>
+  </ul>
+</section>

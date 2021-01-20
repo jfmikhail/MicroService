@@ -1,0 +1,11 @@
+G:\demo\bunny\Assignment\UserData\bin\Debug\netcoreapp2.2\UserData.deps.json
+G:\demo\bunny\Assignment\UserData\bin\Debug\netcoreapp2.2\UserData.dll
+G:\demo\bunny\Assignment\UserData\obj\Debug\netcoreapp2.2\UserData.csprojAssemblyReference.cache
+G:\demo\bunny\Assignment\UserData\obj\Debug\netcoreapp2.2\UserData.csproj.CoreCompileInputs.cache
+G:\demo\bunny\Assignment\UserData\obj\Debug\netcoreapp2.2\UserData.AssemblyInfoInputs.cache
+G:\demo\bunny\Assignment\UserData\obj\Debug\netcoreapp2.2\UserData.AssemblyInfo.cs
+G:\demo\bunny\Assignment\UserData\bin\Debug\netcoreapp2.2\UserData.pdb
+G:\demo\bunny\Assignment\UserData\obj\Debug\netcoreapp2.2\UserData.dll
+G:\demo\bunny\Assignment\UserData\obj\Debug\netcoreapp2.2\UserData.pdb
+G:\demo\bunny\Assignment\UserData\bin\Debug\netcoreapp2.2\UserData.runtimeconfig.json
+G:\demo\bunny\Assignment\UserData\bin\Debug\netcoreapp2.2\UserData.runtimeconfig.dev.json

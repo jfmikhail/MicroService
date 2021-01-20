@@ -1,0 +1,12 @@
+<div class="view">
+  <input *ngIf="allowToggle" class="toggle" type="checkbox" (click)="toggleTaskDone(listItem)" [checked]="listItem.state == 'done'">
+  <label *ngIf="allowToggle" class="{{listItem.state}}" >{{listItem.state}}</label>
+  <label *ngIf="!editMode" >{{allowToggle?listItem.description:listItem.name}}</label>
+  <input *ngIf="!allowToggle && editMode" type="text" class="form-control" [(ngModel)]="listItem.name" name="name" placeholder="Name">
+  <input *ngIf="allowToggle && editMode" type="text" class="form-control" [(ngModel)]="listItem.description" name="name" placeholder="Name">
+  <button *ngIf="allowRemove && !editMode" style="float: right; margin-left: 3px;" class="btn btn-primary fas fa-trash" (click)="removeItem(listItem)"></button>
+  <button *ngIf="!editMode" style="float: right; margin-left: 3px;" class="btn btn-primary fas fa-edit" (click)="editMode=true"></button>
+  <button *ngIf="allowDetails && !editMode" style="float: right; margin-left: 3px;" class="btn btn-primary fas fa-tasks" (click)="getItemDetails(listItem)"></button>
+  <button *ngIf="editMode" style="float: right; margin-left: 3px; margin-top: 5px;" class="btn btn-primary fas fa-cancel" (click)="editMode=false">Cancel</button>
+  <button *ngIf="editMode" style="float: right; margin-left: 3px; margin-top: 5px;" class="btn btn-primary fas fa-save" (click)="saveItem(listItem)">Save</button>
+</div>

@@ -1,0 +1,12 @@
+G:\demo\bunny\Assignment\TaskBusiness\bin\Debug\netcoreapp2.2\TaskData.dll
+G:\demo\bunny\Assignment\TaskBusiness\obj\Debug\netcoreapp2.2\TaskBusiness.csprojAssemblyReference.cache
+G:\demo\bunny\Assignment\TaskBusiness\obj\Debug\netcoreapp2.2\TaskBusiness.csproj.CoreCompileInputs.cache
+G:\demo\bunny\Assignment\TaskBusiness\obj\Debug\netcoreapp2.2\TaskBusiness.AssemblyInfoInputs.cache
+G:\demo\bunny\Assignment\TaskBusiness\obj\Debug\netcoreapp2.2\TaskBusiness.AssemblyInfo.cs
+G:\demo\bunny\Assignment\TaskBusiness\bin\Debug\netcoreapp2.2\TaskBusiness.deps.json
+G:\demo\bunny\Assignment\TaskBusiness\bin\Debug\netcoreapp2.2\TaskBusiness.dll
+G:\demo\bunny\Assignment\TaskBusiness\bin\Debug\netcoreapp2.2\TaskBusiness.pdb
+G:\demo\bunny\Assignment\TaskBusiness\bin\Debug\netcoreapp2.2\TaskData.pdb
+G:\demo\bunny\Assignment\TaskBusiness\obj\Debug\netcoreapp2.2\TaskBusiness.csproj.CopyComplete
+G:\demo\bunny\Assignment\TaskBusiness\obj\Debug\netcoreapp2.2\TaskBusiness.dll
+G:\demo\bunny\Assignment\TaskBusiness\obj\Debug\netcoreapp2.2\TaskBusiness.pdb

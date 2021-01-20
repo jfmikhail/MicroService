@@ -1,0 +1,14 @@
+G:\demo\bunny\Assignment\OcelotApiGateway\bin\Debug\netcoreapp2.2\OcelotApiGateway.deps.json
+G:\demo\bunny\Assignment\OcelotApiGateway\bin\Debug\netcoreapp2.2\OcelotApiGateway.runtimeconfig.json
+G:\demo\bunny\Assignment\OcelotApiGateway\bin\Debug\netcoreapp2.2\OcelotApiGateway.runtimeconfig.dev.json
+G:\demo\bunny\Assignment\OcelotApiGateway\bin\Debug\netcoreapp2.2\OcelotApiGateway.dll
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.csprojAssemblyReference.cache
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.csproj.CoreCompileInputs.cache
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.RazorAssemblyInfo.cache
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.RazorAssemblyInfo.cs
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.AssemblyInfoInputs.cache
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.AssemblyInfo.cs
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.RazorTargetAssemblyInfo.cache
+G:\demo\bunny\Assignment\OcelotApiGateway\bin\Debug\netcoreapp2.2\OcelotApiGateway.pdb
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.dll
+G:\demo\bunny\Assignment\OcelotApiGateway\obj\Debug\netcoreapp2.2\OcelotApiGateway.pdb

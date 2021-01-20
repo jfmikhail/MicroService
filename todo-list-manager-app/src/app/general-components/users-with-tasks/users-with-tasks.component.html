@@ -1,0 +1,30 @@
+<section class="todoapp">
+  <div style="margin-right: auto;" class="row">
+    <span class="col-sm-3" style="margin: 30px;">
+      <div>
+        <h5>Users</h5>
+      </div>
+      <app-list
+        [listItems]="users"
+        [allowToggle]="false"
+        (remove)="onRemoveUser($event)"
+        (getDetails)="getUserTasks($event)"
+        (save)="onUpdateUser($event)"
+      ></app-list>
+      
+  </span>
+  <span *ngIf="selectedUser" class="col-sm-8" style="margin: 30px;">
+    <div>
+      <h5>{{selectedUser.name}}'s Task(s)</h5>
+    </div>
+    <app-list
+      [listItems]="tasks"
+      (toggleDone)="onToggleTaskDone($event)"
+      [allowRemove]="false"
+      [allowDetails]="false"
+      (save)="saveOrUpdateTask($event)"
+    ></app-list>
+    <button type="button" (click)="addUiTask()" style="margin-top: 8px;" class="btn btn-success">+ Create</button>
+  </span>
+  </div>
+</section>

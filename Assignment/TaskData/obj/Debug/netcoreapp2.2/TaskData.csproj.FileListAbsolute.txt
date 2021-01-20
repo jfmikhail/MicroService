@@ -1,0 +1,11 @@
+G:\demo\bunny\Assignment\TaskData\bin\Debug\netcoreapp2.2\TaskData.deps.json
+G:\demo\bunny\Assignment\TaskData\bin\Debug\netcoreapp2.2\TaskData.dll
+G:\demo\bunny\Assignment\TaskData\obj\Debug\netcoreapp2.2\TaskData.csprojAssemblyReference.cache
+G:\demo\bunny\Assignment\TaskData\obj\Debug\netcoreapp2.2\TaskData.csproj.CoreCompileInputs.cache
+G:\demo\bunny\Assignment\TaskData\obj\Debug\netcoreapp2.2\TaskData.AssemblyInfoInputs.cache
+G:\demo\bunny\Assignment\TaskData\obj\Debug\netcoreapp2.2\TaskData.AssemblyInfo.cs
+G:\demo\bunny\Assignment\TaskData\bin\Debug\netcoreapp2.2\TaskData.runtimeconfig.json
+G:\demo\bunny\Assignment\TaskData\bin\Debug\netcoreapp2.2\TaskData.runtimeconfig.dev.json
+G:\demo\bunny\Assignment\TaskData\bin\Debug\netcoreapp2.2\TaskData.pdb
+G:\demo\bunny\Assignment\TaskData\obj\Debug\netcoreapp2.2\TaskData.dll
+G:\demo\bunny\Assignment\TaskData\obj\Debug\netcoreapp2.2\TaskData.pdb

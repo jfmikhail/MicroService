@@ -1,0 +1,12 @@
+G:\demo\bunny\Assignment\UserBusiness\bin\Debug\netcoreapp2.2\UserData.dll
+G:\demo\bunny\Assignment\UserBusiness\obj\Debug\netcoreapp2.2\UserBusiness.csprojAssemblyReference.cache
+G:\demo\bunny\Assignment\UserBusiness\obj\Debug\netcoreapp2.2\UserBusiness.csproj.CoreCompileInputs.cache
+G:\demo\bunny\Assignment\UserBusiness\obj\Debug\netcoreapp2.2\UserBusiness.AssemblyInfoInputs.cache
+G:\demo\bunny\Assignment\UserBusiness\obj\Debug\netcoreapp2.2\UserBusiness.AssemblyInfo.cs
+G:\demo\bunny\Assignment\UserBusiness\bin\Debug\netcoreapp2.2\UserBusiness.deps.json
+G:\demo\bunny\Assignment\UserBusiness\bin\Debug\netcoreapp2.2\UserBusiness.dll
+G:\demo\bunny\Assignment\UserBusiness\bin\Debug\netcoreapp2.2\UserBusiness.pdb
+G:\demo\bunny\Assignment\UserBusiness\bin\Debug\netcoreapp2.2\UserData.pdb
+G:\demo\bunny\Assignment\UserBusiness\obj\Debug\netcoreapp2.2\UserBusiness.csproj.CopyComplete
+G:\demo\bunny\Assignment\UserBusiness\obj\Debug\netcoreapp2.2\UserBusiness.dll
+G:\demo\bunny\Assignment\UserBusiness\obj\Debug\netcoreapp2.2\UserBusiness.pdb
