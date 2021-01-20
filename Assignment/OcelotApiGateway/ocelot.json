@@ -1,7 +1,7 @@
 {
   "Routes": [
     {
-      "DownstreamPathTemplate": "/api/User",
+      "DownstreamPathTemplate": "/api/User/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
@@ -9,8 +9,18 @@
           "Port": 30610
         }
       ],
-      "UpstreamPathTemplate": "/userservice",
-      "UpstreamHttpMethod": [ "Get", "Put", "Post" ]
+      "UpstreamPathTemplate": "/user/{everything}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/Task/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 28830
+        }
+      ],
+      "UpstreamPathTemplate": "/task/{everything}"
     }
   ],
   "GlobalConfiguration": {

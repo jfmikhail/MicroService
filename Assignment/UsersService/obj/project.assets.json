@@ -13092,11 +13092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\demo\\bunny\\Assignment\\UsersService\\UsersService.csproj",
+      "projectUniqueName": "G:\\demo\\bunny\\MicroService\\Assignment\\UsersService\\UsersService.csproj",
       "projectName": "UsersService",
-      "projectPath": "G:\\demo\\bunny\\Assignment\\UsersService\\UsersService.csproj",
+      "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UsersService\\UsersService.csproj",
       "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
-      "outputPath": "G:\\demo\\bunny\\Assignment\\UsersService\\obj\\",
+      "outputPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UsersService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13115,11 +13115,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "G:\\demo\\bunny\\Assignment\\UserBusiness\\UserBusiness.csproj": {
-              "projectPath": "G:\\demo\\bunny\\Assignment\\UserBusiness\\UserBusiness.csproj"
+            "G:\\demo\\bunny\\MicroService\\Assignment\\UserBusiness\\UserBusiness.csproj": {
+              "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UserBusiness\\UserBusiness.csproj"
             },
-            "G:\\demo\\bunny\\Assignment\\UserData\\UserData.csproj": {
-              "projectPath": "G:\\demo\\bunny\\Assignment\\UserData\\UserData.csproj"
+            "G:\\demo\\bunny\\MicroService\\Assignment\\UserData\\UserData.csproj": {
+              "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UserData\\UserData.csproj"
             }
           }
         }

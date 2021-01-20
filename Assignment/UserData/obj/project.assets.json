@@ -3631,11 +3631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\demo\\bunny\\Assignment\\UserData\\UserData.csproj",
+      "projectUniqueName": "G:\\demo\\bunny\\MicroService\\Assignment\\UserData\\UserData.csproj",
       "projectName": "UserData",
-      "projectPath": "G:\\demo\\bunny\\Assignment\\UserData\\UserData.csproj",
+      "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UserData\\UserData.csproj",
       "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
-      "outputPath": "G:\\demo\\bunny\\Assignment\\UserData\\obj\\",
+      "outputPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UserData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

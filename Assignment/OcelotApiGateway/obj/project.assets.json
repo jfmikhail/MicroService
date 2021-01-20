@@ -12140,11 +12140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\demo\\bunny\\Assignment\\OcelotApiGateway\\OcelotApiGateway.csproj",
+      "projectUniqueName": "G:\\demo\\bunny\\MicroService\\Assignment\\OcelotApiGateway\\OcelotApiGateway.csproj",
       "projectName": "OcelotApiGateway",
-      "projectPath": "G:\\demo\\bunny\\Assignment\\OcelotApiGateway\\OcelotApiGateway.csproj",
+      "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\OcelotApiGateway\\OcelotApiGateway.csproj",
       "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
-      "outputPath": "G:\\demo\\bunny\\Assignment\\OcelotApiGateway\\obj\\",
+      "outputPath": "G:\\demo\\bunny\\MicroService\\Assignment\\OcelotApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

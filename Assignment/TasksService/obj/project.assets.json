@@ -13020,11 +13020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\demo\\bunny\\Assignment\\TasksService\\TasksService.csproj",
+      "projectUniqueName": "G:\\demo\\bunny\\MicroService\\Assignment\\TasksService\\TasksService.csproj",
       "projectName": "TasksService",
-      "projectPath": "G:\\demo\\bunny\\Assignment\\TasksService\\TasksService.csproj",
+      "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\TasksService\\TasksService.csproj",
       "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
-      "outputPath": "G:\\demo\\bunny\\Assignment\\TasksService\\obj\\",
+      "outputPath": "G:\\demo\\bunny\\MicroService\\Assignment\\TasksService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13043,8 +13043,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "G:\\demo\\bunny\\Assignment\\TaskBusiness\\TaskBusiness.csproj": {
-              "projectPath": "G:\\demo\\bunny\\Assignment\\TaskBusiness\\TaskBusiness.csproj"
+            "G:\\demo\\bunny\\MicroService\\Assignment\\TaskBusiness\\TaskBusiness.csproj": {
+              "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\TaskBusiness\\TaskBusiness.csproj"
             }
           }
         }

@@ -3624,11 +3624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\demo\\bunny\\Assignment\\TaskBusiness\\TaskBusiness.csproj",
+      "projectUniqueName": "G:\\demo\\bunny\\MicroService\\Assignment\\TaskBusiness\\TaskBusiness.csproj",
       "projectName": "TaskBusiness",
-      "projectPath": "G:\\demo\\bunny\\Assignment\\TaskBusiness\\TaskBusiness.csproj",
+      "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\TaskBusiness\\TaskBusiness.csproj",
       "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
-      "outputPath": "G:\\demo\\bunny\\Assignment\\TaskBusiness\\obj\\",
+      "outputPath": "G:\\demo\\bunny\\MicroService\\Assignment\\TaskBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3647,8 +3647,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "G:\\demo\\bunny\\Assignment\\TaskData\\TaskData.csproj": {
-              "projectPath": "G:\\demo\\bunny\\Assignment\\TaskData\\TaskData.csproj"
+            "G:\\demo\\bunny\\MicroService\\Assignment\\TaskData\\TaskData.csproj": {
+              "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\TaskData\\TaskData.csproj"
             }
           }
         }

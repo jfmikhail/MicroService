@@ -3624,11 +3624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\demo\\bunny\\Assignment\\UserBusiness\\UserBusiness.csproj",
+      "projectUniqueName": "G:\\demo\\bunny\\MicroService\\Assignment\\UserBusiness\\UserBusiness.csproj",
       "projectName": "UserBusiness",
-      "projectPath": "G:\\demo\\bunny\\Assignment\\UserBusiness\\UserBusiness.csproj",
+      "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UserBusiness\\UserBusiness.csproj",
       "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
-      "outputPath": "G:\\demo\\bunny\\Assignment\\UserBusiness\\obj\\",
+      "outputPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UserBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3647,8 +3647,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "G:\\demo\\bunny\\Assignment\\UserData\\UserData.csproj": {
-              "projectPath": "G:\\demo\\bunny\\Assignment\\UserData\\UserData.csproj"
+            "G:\\demo\\bunny\\MicroService\\Assignment\\UserData\\UserData.csproj": {
+              "projectPath": "G:\\demo\\bunny\\MicroService\\Assignment\\UserData\\UserData.csproj"
             }
           }
         }
